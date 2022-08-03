@@ -1,0 +1,16 @@
+h1{
+   text-align: center;
+   color: #F2F2F0; 
+}
+audio{
+    width: 500px;
+    box-shadow: 10px 10px 20px rgba(60, 104, 92, 20);/*Para la iluminacion de la caja de sonido*/
+    border-radius: 90px;/*Elimina los bordes blancos de la caja de sonido*/
+    transform: scale(1.02); /*Tamaño de la caja de sonido*/
+}
+body{
+  background-color: #262626;
+}
+p{
+ color: #F2F2F0;
+}
